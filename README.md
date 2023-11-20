@@ -1,2 +1,2 @@
 # cpp-space-invaders
-Implemented C Plus Plus Code for the game of Space Invaders in Advanced Programming Course @ AUT
+In my Advanced Programming Course at AUT, I successfully implemented C++ code for the Space Invaders game.
